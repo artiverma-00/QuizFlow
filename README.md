@@ -192,9 +192,5 @@ The core full-stack flows, demo data, responsive UI, backend validation, grading
 ## AI tools used
 
 - OpenAI ChatGPT: assisted with architecture planning, implementation drafting, validation/test design, and README documentation.
-- Google Stitch: supplied the original UI direction and exported screen designs used to guide the visual language.
-- The application does not call an AI API at runtime.
+  
 
-## Live demo
-
-Not deployed yet.
